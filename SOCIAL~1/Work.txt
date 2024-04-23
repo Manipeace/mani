@@ -1,0 +1,59 @@
+Social Engineering Attacks Prevention A Systematic Literature Review
+
+
+IEEE Access and Transaction on Social Network,Volume:10,Issue Date:28.March.2022
+
+Vulnerabilities
+Espionage
+Data destruction
+Denial of service
+
+
+
+
+
+Members
+
+RID
+Title	
+Date1
+Affiliations	
+Description	
+Response	
+Victims	
+Sponsor	
+Type	
+Category	
+Sources_Of_Attack
+
+
+
+CREATE TABLE social_engineering (
+id` int(11) NOT NULL auto_increment,
+Title text,	
+Date1 text,
+Affiliations text,	
+Description  text,	 
+Response     text,	
+Victims	     text,
+Sponsor	     text,
+Type	     text,
+Category     text, 	
+Sources_Of_Attack text,
+hcode text,
+PRIMARY KEY  (`id`)
+);
+
+
+
+CREATE TABLE social_engineering (
+id` int(11) NOT NULL auto_increment,
+Title text,	
+Date1 text,
+PRIMARY KEY  (`id`)
+);
+
+
+
+
+
